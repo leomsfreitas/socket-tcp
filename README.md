@@ -39,7 +39,7 @@ The project's objective is to implement socket-based communication between multi
 ### Clone the repository:
 
 ```
-git clone https://github.com/leomsfreitas/SocketTCP
+git clone https://github.com/leomsfreitas/socket-tcp
 ```
 
 ### No installation required:
